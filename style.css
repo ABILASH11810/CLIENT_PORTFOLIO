@@ -1,6 +1,6 @@
 @font-face{
     font-family:'Lovender';
-    src:url('fonts/Lovender.ttf') format('truetype');
+    src:'Lovender.ttf' format('truetype');
 }
 
 *{
